@@ -1,2 +1,3 @@
 # githubAction
-learning github action
+- learning github action
+- adding .github script
